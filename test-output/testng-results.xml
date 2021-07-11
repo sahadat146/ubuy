@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-30T18:14:44Z" name="Default suite" finished-at="2021-05-30T18:14:49Z" duration-ms="4699">
+    <groups>
+    </groups>
+    <test started-at="2021-05-30T18:14:44Z" name="Default test" finished-at="2021-05-30T18:14:49Z" duration-ms="4699">
+      <class name="bootstrap.BS_DD_WithoutSelectTeg">
+        <test-method signature="click1()[pri:0, instance:bootstrap.BS_DD_WithoutSelectTeg@2f8f5f62]" started-at="2021-05-30T23:44:44Z" name="click1" finished-at="2021-05-30T23:44:44Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click1 -->
+        <test-method signature="handleBSDropdown()[pri:0, instance:bootstrap.BS_DD_WithoutSelectTeg@2f8f5f62]" started-at="2021-05-30T23:44:44Z" name="handleBSDropdown" finished-at="2021-05-30T23:44:49Z" duration-ms="4676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleBSDropdown -->
+      </class> <!-- bootstrap.BS_DD_WithoutSelectTeg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
